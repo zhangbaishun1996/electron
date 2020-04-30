@@ -9,7 +9,7 @@
     "build:dir": "yarn dist --dir -c.compression=store -c.mac.identity=null"
   },
   "dependencies": {
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "source-map-support": "^0.5.9"
   },
   "build": {
